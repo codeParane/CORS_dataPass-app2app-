@@ -1,0 +1,11 @@
+C:\Users\codeParane\Desktop\dbCore\bin\Debug\netcoreapp2.0\dbCore.deps.json
+C:\Users\codeParane\Desktop\dbCore\bin\Debug\netcoreapp2.0\dbCore.runtimeconfig.json
+C:\Users\codeParane\Desktop\dbCore\bin\Debug\netcoreapp2.0\dbCore.runtimeconfig.dev.json
+C:\Users\codeParane\Desktop\dbCore\bin\Debug\netcoreapp2.0\dbCore.dll
+C:\Users\codeParane\Desktop\dbCore\bin\Debug\netcoreapp2.0\dbCore.pdb
+C:\Users\codeParane\Desktop\dbCore\obj\Debug\netcoreapp2.0\dbCore.csprojAssemblyReference.cache
+C:\Users\codeParane\Desktop\dbCore\obj\Debug\netcoreapp2.0\dbCore.csproj.CoreCompileInputs.cache
+C:\Users\codeParane\Desktop\dbCore\obj\Debug\netcoreapp2.0\dbCore.AssemblyInfoInputs.cache
+C:\Users\codeParane\Desktop\dbCore\obj\Debug\netcoreapp2.0\dbCore.AssemblyInfo.cs
+C:\Users\codeParane\Desktop\dbCore\obj\Debug\netcoreapp2.0\dbCore.dll
+C:\Users\codeParane\Desktop\dbCore\obj\Debug\netcoreapp2.0\dbCore.pdb
